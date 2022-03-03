@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL : https://github.com/tongzahub/argocd-react.git
+    repoURL : https://github.com/Madolche845/react-demo.git
     targetRevision : HEAD
     path: prod
   destination:
